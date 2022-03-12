@@ -1,0 +1,5 @@
+package com.POS.POS.Model;
+
+public enum Instrument {
+    NUMERAR, CARD, CREDIT, TICHET_MASA, TICHET_VALORIC, VOUCHER, PLATA_MODERNA, ALTE_MODALITATI
+}
